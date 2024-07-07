@@ -1,3 +1,13 @@
+```
+class WhoAmI:
+	iAm = ['Programmer', 'Computer Engineer', 'Developer']
+   	workWith = ['.NET', '.NET framework', '.NET MVC']
+	writeIn = ['C#', 'C++', 'Python', 'CSS', 'html']
+   
+```
+
+
+
 # Want to see my MAGIC?!
 
 ## :computer: Technologies I Love
