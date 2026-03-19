@@ -1,20 +1,28 @@
 ```
 class WhoAmI:
 	iAm = ['Programmer', 'Computer Engineer', 'Developer']
-   	workWith = ['.NET', '.NET framework', '.NET MVC']
+   	workWith = ['.NET', '.NET framework', '.NET Blazor']
 	writeIn = ['C#', 'C++', 'Python', 'CSS', 'html']
 ;)
 ```
 
-
-
 # Want to see my MAGIC?!
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Game
+* Blazor
 * Frontend and Backend Web Development
+
+  
+## 🧰 Tool Box
+- 👷‍♂️ Visual Studio - .Net development
+- 🧪 Visual Studio Code - Overall Development Tool
+- 🏪 Obsidian - Overall Note Taking App
+- 🖌️ GIMP - Photo Editing 
+- 🗃️ SSMS - Database Management
+
+## :octocat: Capabiliies
+* ♻️ Clean Architecture
+* 🍦Creative Arts
 
 
  ## Who am I?
@@ -25,7 +33,8 @@ class WhoAmI:
 		hobbies = [
 				'Drawing',
 				'Watching Anime',
-				'Cycling'
+				'Guitar',
+				'Cycling',
 				'Finding missing ';''
 			]
 	
@@ -42,6 +51,6 @@ class WhoAmI:
  
 ## Current Works
  * Just break in jail of schooling!!
- * I'm currently working on  building **.Net MVC** and just starting gaining **EXPERIENCE**.
+ * I'm currently working on  building **.Net Blazor** and just starting gaining **EXPERIENCE**.
  
  
