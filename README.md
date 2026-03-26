@@ -2,7 +2,7 @@
 class WhoAmI:
 	iAm = ['Programmer', 'Computer Engineer', 'Developer']
    	workWith = ['.NET', '.NET framework', '.NET Blazor']
-	writeIn = ['C#', 'C++', 'Python', 'CSS', 'html']
+	writeIn = ['C#', 'C++', 'CSS', 'html']
 ;)
 ```
 
@@ -52,5 +52,6 @@ class WhoAmI:
 ## Current Works
  * Just break in jail of schooling!!
  * I'm currently working on  building **.Net Blazor** and just starting gaining **EXPERIENCE**.
+ * currently Working at ACESTECH
  
  
